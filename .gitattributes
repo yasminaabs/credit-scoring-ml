@@ -1,0 +1,7 @@
+# Fins de ligne normalisées dans le dépôt
+* text=auto
+
+# Données et modèles : stockés à l'identique
+data/* -text
+*.pkl binary
+*.png binary
